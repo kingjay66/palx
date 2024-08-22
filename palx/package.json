@@ -17,6 +17,6 @@
   },
   "author": "Brent Jackson <jxnblk@gmail.com>",
   "dependencies": {
-    "chroma-js": "^2.1.0"
+    "chroma-js": "^2.6.0"
   }
 }
